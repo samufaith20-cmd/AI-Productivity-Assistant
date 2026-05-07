@@ -1,0 +1,2 @@
+def research_topic(topic):
+    return f"Research summary on {topic}:\n- Key idea 1\n- Key idea 2\n- Key idea 3"
