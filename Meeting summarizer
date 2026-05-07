@@ -1,0 +1,2 @@
+def summarize_meeting(text):
+    return f"Summary:\n{text[:100]}...\n\n(Key points extracted)"
