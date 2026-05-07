@@ -1,0 +1,2 @@
+def chatbot_reply(message):
+    return f"AI Response: You said '{message}'"
