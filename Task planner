@@ -1,0 +1,2 @@
+def plan_tasks(goal):
+    return f"Task Plan for: {goal}\n1. Break into steps\n2. Set deadlines\n3. Execute"
