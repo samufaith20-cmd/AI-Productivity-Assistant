@@ -1,0 +1,2 @@
+def generate_email(prompt):
+    return f"Subject: Regarding {prompt}\n\nDear Sir/Madam,\n\nThis is a generated email about {prompt}.\n\nBest regards."
